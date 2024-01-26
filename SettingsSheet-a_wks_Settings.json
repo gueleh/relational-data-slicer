@@ -1,0 +1,16 @@
+{
+	"a_wks_Settings": [
+		{
+		"id": "a_named_cell_s_g_AppVersionNumber",
+		"name": "Application Version Number",
+		"value2": "0.1.0",
+		"formulaLocal": "0.1.0"
+		},
+		{
+		"id": "a_named_cell_dte_g_AppVersionDate",
+		"name": "Application Version Date",
+		"value2": "45317",
+		"formulaLocal": "45317"
+		},
+	]
+}
